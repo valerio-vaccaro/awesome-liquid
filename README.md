@@ -22,5 +22,7 @@ R based open-source [statistics page](http://vaccaro.tech:3838/liquid/)
 
 Liquid Sidechain Statistics at [Liquid.horse](https://liquid.horse/)
 
+List of [issued assets](https://gnet.me/liquid/)
+
 ## Faucet
 Demo assets at [liquid.beer](https://liquid.beer/)
