@@ -26,3 +26,11 @@ List of [issued assets](https://gnet.me/liquid/)
 
 ## Faucet
 Demo assets at [liquid.beer](https://liquid.beer/)
+
+## Tools
+* [hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
+
+## Libraries
+### Rust
+* [rust-elements](https://github.com/ElementsProject/rust-elements): liquid compatible blockchain data structures
+* [rust-liquid-rpc](https://github.com/stevenroose/rust-liquid-rpc): rust RPC interface for `liquidd`
