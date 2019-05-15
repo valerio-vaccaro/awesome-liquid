@@ -12,6 +12,7 @@ An awesome list of resources on Liquid sidechain
 * [Labelling assets](https://medium.com/@gabriele.domenichini/liquid-daemon-3-14-1-23-and-labels-8ad1c06bb93e)
 * [Hardware node](https://liquid.beer/pub)
 * [Elements asset tutorial](https://github.com/ElementsProject/elements/tree/master/contrib/assets_tutorial)
+* [Liquid: A Hands-On Introduction](https://docsend.com/view/gdxtzsz) at Consensus 2019 and [examples code](https://github.com/Blockstream/liquid-walkthrough)
 
 ## Explorer and statistics
 * Official [Blockstream explorer](https://blockstream.info/liquid/)
@@ -24,12 +25,12 @@ An awesome list of resources on Liquid sidechain
 * [Buy Liquid BTC via Lightning](https://liquid.beer/liquidity)
 
 ## Tools
-* [hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
+* [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
 
 ## Libraries
 ### C
-* [libwally-core](https://github.com/ElementsProject/libwally-core): C/C++ with bindings for Python2/3, Java and Javascript
+* [Libwally-core](https://github.com/ElementsProject/libwally-core): C/C++ with bindings for Python2/3, Java and Javascript
 
 ### Rust
-* [rust-elements](https://github.com/ElementsProject/rust-elements): liquid compatible blockchain data structures
-* [rust-liquid-rpc](https://github.com/stevenroose/rust-liquid-rpc): rust RPC interface for `liquidd`
+* [Rust-elements](https://github.com/ElementsProject/rust-elements): liquid compatible blockchain data structures
+* [Rust-liquid-rpc](https://github.com/stevenroose/rust-liquid-rpc): rust RPC interface for `liquidd`
