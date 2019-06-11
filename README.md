@@ -7,6 +7,7 @@ An awesome list of resources on Liquid sidechain
 
 ## Guide
 * [Official website](https://blockstream.com/liquid/)
+* [Technical overview](https://docs.blockstream.com/liquid/technical_overview.html)
 * [Whitepaper](https://blockstream.com/assets/downloads/strong-federations.pdf)
 * [Getting started with the Liquid Network](https://hackernoon.com/getting-started-with-the-liquid-network-c87e2cb5996b)
 * [Labelling assets](https://medium.com/@gabriele.domenichini/liquid-daemon-3-14-1-23-and-labels-8ad1c06bb93e)
