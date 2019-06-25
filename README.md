@@ -15,6 +15,7 @@ An awesome list of resources on Liquid sidechain
 * [Elements asset tutorial](https://github.com/ElementsProject/elements/tree/master/contrib/assets_tutorial)
 * [Liquid: A Hands-On Introduction](https://docsend.com/view/gdxtzsz) at Consensus 2019 and [examples code](https://github.com/Blockstream/liquid-walkthrough)
 * [Liquid Introduction Webinar](https://www.youtube.com/watch?v=C0bXBA6naMs) on Youtube
+* [Liquid Multisig Issuance](https://github.com/Blockstream/liquid_multisig_issuance)
 
 ## Explorer and statistics
 * Official [Blockstream explorer](https://blockstream.info/liquid/)
