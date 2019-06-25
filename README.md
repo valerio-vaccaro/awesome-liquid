@@ -30,6 +30,7 @@ An awesome list of resources on Liquid sidechain
 ## Tools
 * [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
 * [Liquid-melt](https://github.com/Blockstream/liquid-melt) allow to import collectible tokens from the Mini Private Key
+* [Nigiri](https://github.com/vulpemventures/nigiri) docker box
 
 ## Libraries
 ### C
