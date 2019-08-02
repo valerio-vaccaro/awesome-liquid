@@ -27,6 +27,10 @@ An awesome list of resources on Liquid sidechain
 * Demo assets at [liquid.beer](https://liquid.beer/)
 * [Buy Liquid BTC via Lightning](https://liquid.beer/liquidity)
 
+## Blockstream's Asset Registry
+* [JSON Registry](https://assets.blockstream.info/)
+* [Human readable asset list](https://blockstream.info/liquid/assets)
+
 ## Tools
 * [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
 * [Liquid-melt](https://github.com/Blockstream/liquid-melt) allow to import collectible tokens from the Mini Private Key
