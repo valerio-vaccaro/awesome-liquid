@@ -38,7 +38,7 @@ An awesome list of resources on Liquid sidechain
 
 ## Libraries
 ### C
-* [Libwally-core](https://github.com/ElementsProject/libwally-core): C/C++ with bindings for Python2/3, Java and Javascript
+* [Libwally-core](https://github.com/ElementsProject/libwally-core): C/C++ with bindings for Python2/3, Java and Javascript (and [examples in python](https://github.com/afilini/wally-examples))
 
 ### Rust
 * [Rust-elements](https://github.com/ElementsProject/rust-elements): liquid compatible blockchain data structures
