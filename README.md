@@ -58,6 +58,6 @@ List of content:
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+MIT License.
 
 To the extent possible under law, [Valerio Vaccaro](https://github.com/valerio-vaccaro/) has waived all copyright and related or neighboring rights to this work.
