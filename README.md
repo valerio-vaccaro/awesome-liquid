@@ -36,6 +36,7 @@ List of content:
 
 # Faucet and demos
 - Demo assets at [liquid.beer](https://liquid.beer/)
+- MTL Coffee Token [montrealcoffee website](https://montrealcoffee.club)
 - [Buy Liquid BTC via Lightning](https://liquid.beer/liquidity)
 
 # Blockstream's Asset Registry
