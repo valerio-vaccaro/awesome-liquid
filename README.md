@@ -27,6 +27,7 @@ List of content:
 - [Liquid: A Hands-On Introduction](https://docsend.com/view/gdxtzsz) at Consensus 2019 and [examples code](https://github.com/Blockstream/liquid-walkthrough)
 - [Liquid Introduction Webinar](https://www.youtube.com/watch?v=C0bXBA6naMs) on YouTube
 - [Liquid Multisig Issuance](https://github.com/Blockstream/liquid_multisig_issuance)
+- [Asset tutorial](https://docs.blockstream.com/liquid/developer-guide/developer-guide-index.html#proof-of-issuance-blockstream-s-liquid-asset-registry)
 
 # Explorer and statistics
 - [Official statistics](https://liquid.net/)
