@@ -29,6 +29,7 @@ List of content:
 - [Liquid Multisig Issuance](https://github.com/Blockstream/liquid_multisig_issuance)
 
 # Explorer and statistics
+- [Official statistics](https://liquid.net/)
 - Official [Blockstream explorer](https://blockstream.info/liquid/)
 - R based open-source [statistics page](http://vaccaro.tech:3838/liquid/)
 - Liquid Sidechain Statistics at [Liquid.horse](https://liquid.horse/)
