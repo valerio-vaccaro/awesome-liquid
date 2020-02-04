@@ -50,7 +50,9 @@ List of content:
 - [Liquid-melt](https://github.com/Blockstream/liquid-melt) allow to import collectible tokens from the Mini Private Key
 - [Nigiri](https://github.com/vulpemventures/nigiri) docker box
 - [Liquid swap](https://github.com/Blockstream/liquid-swap/) tool
-
+- [WriteOnChain](https://gitlab.com/valerio-vaccaro/writeonchain) write information on Liquid using OP_RETURN
+- [LiquidIssuer](https://gitlab.com/valerio-vaccaro/liquidissuer) Issue token on Blockstream Liquid sidechain compatible with Blockstream asset registry from a Python/Qt5 app.
+ 
 # Libraries
 ## C
 - [Libwally-core](https://github.com/ElementsProject/libwally-core): C/C++ with bindings for Python2/3, Java and JavaScript (and [examples in python](https://github.com/afilini/wally-examples))
