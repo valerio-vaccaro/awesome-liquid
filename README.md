@@ -9,12 +9,12 @@ List of content:
 - [Explorer and statistics](#explorer-and-statistics)
 - [Faucet and demos](#faucet-and-demos)
 - [Blockstream's Asset Registry](#blockstream's-asset-registry)
+- [Liquid Securities](#liquid-securities)
 - [Tools](#tools)
 - [Libraries](#libraries)
 
 # Official releases
-- [GitHub sources](https://github.com/Blockstream/liquid/)
-- [Binaries](https://github.com/ElementsProject/elements/releases)
+- [GitHub sources & Binaries](https://github.com/ElementsProject/elements/releases)
 
 # Guide
 - [Official website](https://blockstream.com/liquid/)
@@ -38,12 +38,16 @@ List of content:
 
 # Faucet and demos
 - Demo assets at [liquid.beer](https://liquid.beer/)
-- MTL Coffee Token [montrealcoffee website](https://montrealcoffee.club)
-- [Buy Liquid BTC via Lightning](https://liquid.beer/liquidity)
+- MTL Coffee Token [montrealcoffee website - not working](https://montrealcoffee.club)
+- [Buy Liquid BTC via Lightning - not working](https://liquid.beer/liquidity)
 
 # Blockstream's Asset Registry
 - [JSON Registry](https://assets.blockstream.info/)
 - [Human readable asset list](https://blockstream.info/liquid/assets)
+
+# Liquid securities
+- [Official website](https://blockstream.com/liquid/securities/)
+- Demo faucet/authorizer at [liquid.wine](https://liquid.wine/)
 
 # Tools
 - [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
