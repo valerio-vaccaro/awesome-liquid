@@ -47,7 +47,8 @@ List of content:
 
 # Liquid securities
 - [Official website](https://blockstream.com/liquid/securities/)
-- Demo faucet/authorizer at [liquid.wine](https://liquid.wine/)
+- Open source demo faucet/authorizer at [liquid.wine](https://liquid.wine/) and [sourcecode](https://github.com/valerio-vaccaro/liquid.wine)
+- [External authorizer demo](https://github.com/valerio-vaccaro/LiquidSecuritiesAuthorizer)
 
 # Tools
 - [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
@@ -64,6 +65,10 @@ List of content:
 ## Rust
 - [Rust-elements](https://github.com/ElementsProject/rust-elements): liquid compatible blockchain data structures
 - [Rust-liquid-rpc](https://github.com/stevenroose/rust-liquid-rpc): rust RPC interface for `liquidd`
+
+## Javascript
+- [liquidjs-lib](https://github.com/provable-things/liquidjs-lib)
+- [Liquidjs](https://github.com/vulpemventures/liquidjs)
 
 ## License
 
