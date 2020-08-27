@@ -47,6 +47,8 @@ List of content:
 
 # Liquid securities
 - [Official website](https://blockstream.com/liquid/securities/)
+- [Technical overview](https://docs.blockstream.com/liquid-securities/overview.html)
+- [Video introduction](https://www.youtube.com/watch?v=hTfd1LI1fs0)
 - Open source demo faucet/authorizer at [liquid.wine](https://liquid.wine/) and [sourcecode](https://github.com/valerio-vaccaro/liquid.wine)
 - [External authorizer demo](https://github.com/valerio-vaccaro/LiquidSecuritiesAuthorizer)
 
