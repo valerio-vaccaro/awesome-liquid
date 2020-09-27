@@ -76,6 +76,9 @@ List of content:
 ## Javascript
 - [liquidjs-lib](https://github.com/provable-things/liquidjs-lib)
 
+## Python
+- [python-elementstx](https://github.com/Simplexum/python-elementstx) (and [examples](https://github.com/Simplexum/python-elementstx/tree/master/examples))
+
 ## License
 
 MIT License.
