@@ -53,6 +53,8 @@ List of content:
 - [External authorizer demo](https://github.com/valerio-vaccaro/LiquidSecuritiesAuthorizer)
 
 # Tools
+- [Liquid.Coach](https://liquid.coach) Liquid.Coach lets you create and manage Elements transactions in the browser.
+- [Liquid.Taxi](https://liquid.taxi) Pay Liquid network fees with USDt or Lightning Network
 - [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
 - [Liquid-melt](https://github.com/Blockstream/liquid-melt) allow to import collectible tokens from the Mini Private Key
 - [Nigiri](https://github.com/vulpemventures/nigiri) docker box
@@ -68,9 +70,11 @@ List of content:
 - [Rust-elements](https://github.com/ElementsProject/rust-elements): liquid compatible blockchain data structures
 - [Rust-liquid-rpc](https://github.com/stevenroose/rust-liquid-rpc): rust RPC interface for `liquidd`
 
+## Go
+- [go-elements](https://github.com/vulpemventures/go-elements) Go support for Liquid/Elements transactions 
+
 ## Javascript
 - [liquidjs-lib](https://github.com/provable-things/liquidjs-lib)
-- [Liquidjs](https://github.com/vulpemventures/liquidjs)
 
 ## License
 
