@@ -45,12 +45,14 @@ List of content:
 - [JSON Registry](https://assets.blockstream.info/)
 - [Human readable asset list](https://blockstream.info/liquid/assets)
 
-# Liquid securities
+# Blockstream AMP (ex Liquid securities)
 - [Official website](https://blockstream.com/liquid/securities/)
 - [Technical overview](https://docs.blockstream.com/liquid-securities/overview.html)
 - [Video introduction](https://www.youtube.com/watch?v=hTfd1LI1fs0)
 - Open source demo faucet/authorizer at [liquid.wine](https://liquid.wine/) and [sourcecode](https://github.com/valerio-vaccaro/liquid.wine)
 - [External authorizer demo](https://github.com/valerio-vaccaro/LiquidSecuritiesAuthorizer)
+- [LiquiDEX](https://github.com/RCasatta/LiquiDEX) A decentralized exchange for Liquid transactions.
+- [LiquidSecuritiesPOS](https://github.com/valerio-vaccaro/LiquidSecuritiesPOS) M5stack based POS for Liquid Securities tokens.
 
 # Tools
 - [Liquid.Coach](https://liquid.coach) Liquid.Coach lets you create and manage Elements transactions in the browser.
