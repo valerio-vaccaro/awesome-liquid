@@ -40,10 +40,13 @@ List of content:
 - Demo assets at [liquid.beer](https://liquid.beer/)
 - MTL Coffee Token [montrealcoffee website - not working](https://montrealcoffee.club)
 - [Buy Liquid BTC via Lightning - not working](https://liquid.beer/liquidity)
+- [Liquid Testnet](https://liquidtestnet.com/) [sourcecode](https://github.com/valerio-vaccaro/liquidtestnet.com)
 
 # Blockstream's Asset Registry
-- [JSON Registry](https://assets.blockstream.info/)
+- [Asset Registry in JSON](https://assets.blockstream.info/)
+- [Testnet Asset Registry in JSON](https://assets-testnet.blockstream.info/)
 - [Human readable asset list](https://blockstream.info/liquid/assets)
+- [Testnet Human readable asset list](https://blockstream.info/liquidtestnet/assets)
 
 # Blockstream AMP (ex Liquid Securities)
 - [Official website](https://blockstream.com/amp/)
@@ -51,18 +54,22 @@ List of content:
 - [Video introduction](https://www.youtube.com/watch?v=hTfd1LI1fs0)
 - Open source demo faucet/authorizer at [liquid.wine](https://liquid.wine) and [sourcecode](https://github.com/valerio-vaccaro/liquid.wine)
 - [External authorizer demo](https://github.com/valerio-vaccaro/LiquidSecuritiesAuthorizer)
-- [LiquiDEX](https://github.com/RCasatta/LiquiDEX) A decentralized exchange for Liquid transactions.
+- [Rust based AMP External Authorizer](https://github.com/valerio-vaccaro/amp-authorizer)
 - [LiquidSecuritiesPOS](https://github.com/valerio-vaccaro/LiquidSecuritiesPOS) M5stack based POS for Blockstream AMP tokens.
 
 # Tools
 - [Liquid.Coach](https://liquid.coach) Liquid.Coach lets you create and manage Elements transactions in the browser.
-- [Liquid.Taxi](https://liquid.taxi) Pay Liquid network fees with USDt or Lightning Network
-- [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions
-- [Liquid-melt](https://github.com/Blockstream/liquid-melt) allow to import collectible tokens from the Mini Private Key
-- [Nigiri](https://github.com/vulpemventures/nigiri) docker box
-- [Liquid swap](https://github.com/Blockstream/liquid-swap/) tool
-- [WriteOnChain](https://gitlab.com/valerio-vaccaro/writeonchain) write information on Liquid using OP_RETURN
+- [Liquid.Taxi](https://liquid.taxi) Pay Liquid network fees with USDt or Lightning Network.
+- [LiquiDEX](https://github.com/RCasatta/LiquiDEX) A decentralized exchange for Liquid transactions.
+- [TDEX](https://tdex.network/)
+- [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions.
+- [Liquid-melt](https://github.com/Blockstream/liquid-melt) allow to import collectible tokens from the Mini Private Key.
+- [Nigiri](https://github.com/vulpemventures/nigiri) docker box.
+- [Liquid swap](https://github.com/Blockstream/liquid-swap/) tool.
+- [WriteOnChain](https://gitlab.com/valerio-vaccaro/writeonchain) write information on Liquid using OP_RETURN.
 - [LiquidIssuer](https://gitlab.com/valerio-vaccaro/liquidissuer) Issue token on Blockstream Liquid sidechain compatible with Blockstream asset registry from a Python/Qt5 app.
+- [Asset Registry Contract Calculator](https://github.com/valerio-vaccaro/asset_registry_contract_calculator) minimal gui for creation of an asset registry contract.
+- [Jade](https://github.com/Blockstream/Jade) hardware wallet.
  
 # Libraries
 ## C
