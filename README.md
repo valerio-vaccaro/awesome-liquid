@@ -37,6 +37,7 @@ List of content:
 - List of [issued assets](https://gnet.me/liquid/)
 
 # Faucet and demos
+- Faucet to get L-BTC, USDt and LCAD in Testnet [faucet.vulpem.com](https://faucet.vulpem.com)
 - Demo assets at [liquid.beer](https://liquid.beer/)
 - MTL Coffee Token [montrealcoffee website - not working](https://montrealcoffee.club)
 - [Buy Liquid BTC via Lightning - not working](https://liquid.beer/liquidity)
@@ -58,8 +59,8 @@ List of content:
 - [LiquidSecuritiesPOS](https://github.com/valerio-vaccaro/LiquidSecuritiesPOS) M5stack based POS for Blockstream AMP tokens.
 
 # Tools
-- [Liquid.Coach](https://liquid.coach) Liquid.Coach lets you create and manage Elements transactions in the browser.
-- [Liquid.Taxi](https://liquid.taxi) Pay Liquid network fees with USDt or Lightning Network.
+- [Liquid.Coach](https://vulpemventures.github.io/liquid.coach) Liquid.Coach lets you create and manage Elements transactions in the browser.
+- [Liquid.Taxi](https://liquid.taxi) Pay Liquid network fees with USDt and other stablecoins
 - [LiquiDEX](https://github.com/RCasatta/LiquiDEX) A decentralized exchange for Liquid transactions.
 - [TDEX](https://tdex.network/)
 - [Hal](https://github.com/stevenroose/hal/) with [hal-elements extension](https://github.com/stevenroose/hal-elements): tool to decode/create liquid transactions.
